@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: e8b3069d4dda14340a710501c947a91a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _L_Collarbone
+    100002: _L_Digit11
+    100004: _L_Digit12
+    100006: _L_Digit13
+    100008: _L_Digit21
+    100010: _L_Digit22
+    100012: _L_Digit23
+    100014: _L_Digit31
+    100016: _L_Digit32
+    100018: _L_Digit33
+    100020: _L_Digit41
+    100022: _L_Digit42
+    100024: _L_Digit43
+    100026: _L_Digit51
+    100028: _L_Digit52
+    100030: _L_Digit53
+    100032: _L_Forearm1
+    100034: _L_Forearm2
+    100036: _L_Forearm3
+    100038: _L_Hand
+    100040: _L_Palm1
+    100042: _L_Palm2
+    100044: _L_turn-up
+    100046: _L_Upperarm
+    100048: _R_Collarbone
+    100050: _R_Digit11
+    100052: _R_Digit12
+    100054: _R_Digit13
+    100056: _R_Digit21
+    100058: _R_Digit22
+    100060: _R_Digit23
+    100062: _R_Digit31
+    100064: _R_Digit32
+    100066: _R_Digit33
+    100068: _R_Digit41
+    100070: _R_Digit42
+    100072: _R_Digit43
+    100074: _R_Digit51
+    100076: _R_Digit52
+    100078: _R_Digit53
+    100080: _R_Forearm1
+    100082: _R_Forearm2
+    100084: _R_Forearm3
+    100086: _R_Hand
+    100088: _R_Palm1
+    100090: _R_Palm2
+    100092: _R_turn-up
+    100094: _R_Upperarm
+    100096: _Ribcage
+    100098: Bill_hand_shirt
+    100100: nurbsCircle1
+    100102: Object01
+    100104: Object02
+    100106: PUMP_SHOTGUN
+    100108: ROOT
+    100110: //RootNode
+    400000: _L_Collarbone
+    400002: _L_Digit11
+    400004: _L_Digit12
+    400006: _L_Digit13
+    400008: _L_Digit21
+    400010: _L_Digit22
+    400012: _L_Digit23
+    400014: _L_Digit31
+    400016: _L_Digit32
+    400018: _L_Digit33
+    400020: _L_Digit41
+    400022: _L_Digit42
+    400024: _L_Digit43
+    400026: _L_Digit51
+    400028: _L_Digit52
+    400030: _L_Digit53
+    400032: _L_Forearm1
+    400034: _L_Forearm2
+    400036: _L_Forearm3
+    400038: _L_Hand
+    400040: _L_Palm1
+    400042: _L_Palm2
+    400044: _L_turn-up
+    400046: _L_Upperarm
+    400048: _R_Collarbone
+    400050: _R_Digit11
+    400052: _R_Digit12
+    400054: _R_Digit13
+    400056: _R_Digit21
+    400058: _R_Digit22
+    400060: _R_Digit23
+    400062: _R_Digit31
+    400064: _R_Digit32
+    400066: _R_Digit33
+    400068: _R_Digit41
+    400070: _R_Digit42
+    400072: _R_Digit43
+    400074: _R_Digit51
+    400076: _R_Digit52
+    400078: _R_Digit53
+    400080: _R_Forearm1
+    400082: _R_Forearm2
+    400084: _R_Forearm3
+    400086: _R_Hand
+    400088: _R_Palm1
+    400090: _R_Palm2
+    400092: _R_turn-up
+    400094: _R_Upperarm
+    400096: _Ribcage
+    400098: Bill_hand_shirt
+    400100: nurbsCircle1
+    400102: Object01
+    400104: Object02
+    400106: PUMP_SHOTGUN
+    400108: ROOT
+    400110: //RootNode
+    2100000: Bill_hand_shirt
+    2100002: aiStandardSurface1
+    2300000: Object01
+    2300002: Object02
+    3300000: Object01
+    3300002: Object02
+    4300000: Bill_hand_shirt
+    4300002: Object01
+    4300004: Object02
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bill_hand_shirt
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bill_hand_shirt
+    second: {fileID: 2100000, guid: fd186b88df32e994498251ceb5ac85c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface1
+    second: {fileID: 2100000, guid: 3aca466d30be30e41901e3a5a083844a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
